@@ -5,8 +5,8 @@ The objective of hackthon to detect hate speech in tweets. For the sake of simpl
 
 We will classify a set of tweets into two categories:
 
-racist/sexist
-non-racist/sexist
+1. racist/sexist
+2. non-racist/sexist
 
 Formally, given a training sample of tweets and labels, where label ‘1’ denotes the tweet is racist/sexist and label ‘0’ denotes the tweet is not racist/sexist, your objective is to predict the labels on the given test dataset.
 
